@@ -1,1 +1,2 @@
-It is a yearly basis expenditure app where you can store your expenditures for future analysis.
+It is web based Expense tracker app which allows the user to keep track of their day to day expenditure.
+
